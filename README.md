@@ -9,6 +9,8 @@ CVC2021 simple project for sign language detection.
     ```
     or you can simply run "gui.exe" file.
     a GUI will appear to you and you just have to adjust HSV values to segment your hand color.
+![Capture](https://user-images.githubusercontent.com/35659429/122628451-56928400-d0b6-11eb-81dd-5fc3321e3a03.PNG)
+
 3. To train the model just press the "Train The Model" button again and wait for it to finish training.
     a message will appear saying "model has completed the training"
 4. Now to start detecting just press the "Detect Gesture" button
