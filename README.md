@@ -20,6 +20,13 @@ CVC2021 simple project for sign language detection.
     to start capturing new images just press the "c" key from your keyboard
     
 6. To train the model again for the new dataset just press the "Train The Model" button again.
+
+
+
+
+
+# illustration video
+https://youtu.be/MI1eyzoRcno
  
 
 
